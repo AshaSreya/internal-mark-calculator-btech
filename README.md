@@ -11,4 +11,4 @@ assignment score — this little JS tool will crunch the numbers faster than you
                                                          🧾 ASSIGNMENT SCORE (OUT OF 15)
  A SHORT IMAGE                                                     
  Input marks → click calculate → get results!”   
-     ![App Screenshot](./images/preview.png)                              
+                              
