@@ -10,5 +10,6 @@ assignment score — this little JS tool will crunch the numbers faster than you
                                      📊 ATTENDANCE PERCENTAGE (OUT OF 100)
                                                          🧾 ASSIGNMENT SCORE (OUT OF 15)
  A SHORT IMAGE                                                     
- Input marks → click calculate → get results!”   
-                              
+ Input marks → click calculate → get results!”  
+ 
+                          ![image alt]https://github.com/AshaSreya/internal-mark-calculator-btech/blob/3c5e4ad06b16598c86a6a0682c8055bf8abaa009/preview.png    
